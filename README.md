@@ -9,3 +9,7 @@ This is a maze game with a shortest path recursive function, that not only finds
 # Technologies / Language Used
 1. The whole code is written in C++.
 2. The use of dynamic memory to make the game more efficient.
+
+# Screen Shots
+![Maze Screenshot1](assets/screenshot1.png)
+![Maze Screenshot2](assets/screenshot2.png)
