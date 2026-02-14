@@ -12,4 +12,6 @@ This is a maze game with a shortest path recursive function, that not only finds
 
 # Screen Shots
 ![Maze Screenshot1](assets/screenshot1.png)
+
+
 ![Maze Screenshot2](assets/screenshot2.png)
